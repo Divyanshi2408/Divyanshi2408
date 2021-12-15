@@ -1,6 +1,5 @@
+![q](https://user-images.githubusercontent.com/85859444/146250302-17f8dd70-7bb0-4cf6-81d5-9317b9e5f3aa.PNG)
 
-
-![e](https://user-images.githubusercontent.com/85859444/146249405-7e4ed09e-a85f-4748-8355-d22ae6a9321f.PNG)
 
 <h1 align="center">Hi 👋, I'm divyanshi</h1>
 
