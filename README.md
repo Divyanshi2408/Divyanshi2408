@@ -1,7 +1,10 @@
+
+
+![e](https://user-images.githubusercontent.com/85859444/146249405-7e4ed09e-a85f-4748-8355-d22ae6a9321f.PNG)
+
 <h1 align="center">Hi 👋, I'm divyanshi</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-
 
 👨🏻‍💻  About Me
 
@@ -13,9 +16,6 @@
 🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
 
  ✉️  You can shoot me an email at divyanshipal2808@gmail.com I'll try to respond as soon as I can.
- 
- 
- https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif
 
 
 
