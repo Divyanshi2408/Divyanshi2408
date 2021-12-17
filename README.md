@@ -8,16 +8,15 @@
 
 👨🏻‍💻  About Me
 
-
 💡  I like to explore new technologies and develop software solutions and quick hacks.
 
-🎓  I'm currently studying Computer Science and engineering at the University of Dr.A.P.J Abdul Kalam technical university.
+🎓  I'm currently studying Computer Science and engineering at the University of Dr.A.P.J Abdul Kalam technical university.  
 
 🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
 
  ✉️  You can shoot me an email at divyanshipal2808@gmail.com I'll try to respond as soon as I can.
-
-
+ 
+ ![giphy](https://user-images.githubusercontent.com/85859444/146594366-52896cec-6bae-4fa9-a5ef-375365a80c97.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
