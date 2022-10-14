@@ -11,7 +11,7 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
  
 
 💡  I like to explore new technologies and develop software solutions and quick hacks.
