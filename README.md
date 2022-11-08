@@ -67,7 +67,7 @@
 
 <h2> Github Stats  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
  
-  <a href="https://github.com/aastha12"><img alt="Divyanshi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=divyanshi2408&custom_title=Divyanshi's%20Contribution%20Graph&theme=react-dark" /></a>
+  <a href="https://github.com/divyanshi2408"><img alt="Divyanshi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=divyanshi2408&custom_title=Divyanshi's%20Contribution%20Graph&theme=react-dark" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshi2408&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="divyanshi2408" /></p>
 
