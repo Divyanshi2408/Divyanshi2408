@@ -1,4 +1,4 @@
-![Black Technology LinkedIn Banner (1)](https://github.com/Divyanshi2408/Divyanshi2408/assets/85859444/beffffa6-9a52-401d-bd37-1ffd3dd2050b)
+![LinkedIn cover - 18 (1)](https://github.com/user-attachments/assets/a6c4d31a-c58c-4ed3-a7c0-970707a4ed7b)
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
