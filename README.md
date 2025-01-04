@@ -92,3 +92,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshi2408&&theme=tokyonight" alt="divyanshi2408" /></p>
 
+ Total Views on Profile:<br><br>
+![Visitor Count](https://profile-counter.glitch.me/Divyanshi2408/count.svg)
+
