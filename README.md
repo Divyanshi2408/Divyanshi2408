@@ -5,19 +5,20 @@
 </p>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Frontend+Developer;I'm+a+Computer+Science+engineer" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer;I'm+a+Computer+Science+engineer" /></a>
 </p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
  
 
-💡  I like to explore new technologies and develop software solutions and quick hacks.
 
-🎓  I'm currently studying Computer Science and engineering at the University of Dr.A.P.J Abdul Kalam technical university.  
+💡 I enjoy building dynamic web applications and exploring the latest trends in web development.
 
-🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
+🎓 I recently graduated in Computer Science and Engineering from Dr. A.P.J. Abdul Kalam Technical University.
+
+🌱 Currently, I'm diving into full-stack development, enhancing my skills in React, Node.js, and learning more about responsive design and user experience.
 
  ✉️  email : divyanshipal2808@gmail.com 
                                                 
@@ -34,44 +35,52 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
  <p>
- <a>
-    <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
-  
-  </a>
-  <a>
+     <a>
     <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML&logoColor=white">
   
    <a>
     <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
   </a>
-    <a>
-    <img alt="Java" src="https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=github&logoColor=white">
+  <a>
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</a>
+<a>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</a>
+ <a>
+    <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+  
   </a>
-    <a>
-    <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  </a>
-     <a>
-    <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-green?style=for-the-badge&logo=googleclod&logoColor=white">
+ <a>
+    <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+</a>
+<a>
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+</a>
+<a>
+    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+</a>
+<a>
+    <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white">
+</a>
+<a>
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</a>
+
+
    <a>
     <img alt="Git" src="https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=white">
    </a>
     <a>
     <img alt="Github" src="https://img.shields.io/badge/-GitHub-brown?style=for-the-badge&logo=github&logoColor=white">
   </a>
-      <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-       <a>
-    <img alt="C" src="https://img.shields.io/badge/-C-orange?style=for-the-badge&logo=C&logoColor=white">
-  </a>
+     
   </p>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h2> Github Stats  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
  
   <a href="https://github.com/divyanshi2408"></a>
-    [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Divyanshi2408&bg_color=1a1b27&color=38bdae&line=bf91f3&point=70a5fd&area=true&hide_border=true)](https://github.com/Divyanshi2408/github-readme-activity-graph)
+    [![Divyanshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Divyanshi2408&bg_color=1a1b27&color=38bdae&line=bf91f3&point=70a5fd&area=true&hide_border=true)](https://github.com/Divyanshi2408/github-readme-activity-graph)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshi2408&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="divyanshi2408" /></p>
 
