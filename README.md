@@ -78,20 +78,24 @@
   </p>
 
 <h2> Github Stats  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
- 
-  <a href="https://github.com/divyanshi2408"></a>
-    [![Divyanshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Divyanshi2408&bg_color=1a1b27&color=38bdae&line=bf91f3&point=70a5fd&area=true&hide_border=true)](https://github.com/Divyanshi2408/github-readme-activity-graph)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshi2408&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="divyanshi2408" /></p>
+<a href="https://github.com/Divyanshi2408"></a>
+    [![Divyanshi2408's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Divyanshi2408&bg_color=1a1b27&color=38bdae&line=bf91f3&point=70a5fd&area=true&hide_border=true)](https://github.com/shocker-lov-t/github-readme-activity-graph)
 
+<table align="center" border="1" style="width: 100%; height: 200px; text-align: center; border: 5px solid black; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: middle; border: 5px solid black;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Divyanshi2408&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Divyanshi2408" />
+    </td>
+    <td style="vertical-align: middle; border: 5px solid black;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Divyanshi2408&show_icons=true&locale=en&theme=tokyonight" alt="Divyanshi2408">
+    </td>
+  </tr>
+</table>
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshi2408&&theme=tokyonight" alt="Divyanshi2408">
+  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshi2408&show_icons=true&locale=en&theme=tokyonight" alt="divyanshi2408" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshi2408&&theme=tokyonight" alt="divyanshi2408" /></p>
-
- Total Views on Profile:<br><br>
+  Total Views on Profile:<br><br>
 ![Visitor Count](https://profile-counter.glitch.me/Divyanshi2408/count.svg)
 
