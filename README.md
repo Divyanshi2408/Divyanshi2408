@@ -80,7 +80,7 @@
 <h2> Github Stats  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
 <a href="https://github.com/Divyanshi2408"></a>
-    [![Divyanshi2408's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Divyanshi2408&bg_color=1a1b27&color=38bdae&line=bf91f3&point=70a5fd&area=true&hide_border=true)](https://github.com/shocker-lov-t/github-readme-activity-graph)
+    [![Divyanshi2408's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Divyanshi2408&bg_color=1a1b27&color=38bdae&line=bf91f3&point=70a5fd&area=true&hide_border=true)](https://github.com/Divyanshi2408/github-readme-activity-graph)
 
 <table align="center" border="1" style="width: 100%; height: 200px; text-align: center; border: 5px solid black; border-collapse: collapse;">
   <tr>
