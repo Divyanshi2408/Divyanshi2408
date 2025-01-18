@@ -93,9 +93,11 @@
   </tr>
 </table>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshi2408&&theme=tokyonight" alt="Divyanshi2408">
+<p align="center"><img src="https://nirzak-streak-stats.vercel.app?user=Divyanshi2408&theme=tokyonight" alt="Divyanshi2408">
   </p>
 
-  Total Views on Profile:<br><br>
-![Visitor Count](https://profile-counter.glitch.me/Divyanshi2408/count.svg)
+ <p align="center"> Total Views on Profile:<br></p>
+  <p align="center"><img src="https://profile-counter.glitch.me/Divyanshi2408/count.svg" alt="Divyanshi2408">
+  </p>
+
 
